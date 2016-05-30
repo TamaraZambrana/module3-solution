@@ -17,13 +17,12 @@ h1,h2,h3, .navbar-default .navbar-brand {
 
 .navbar{
 	background-color: #c32c38;
-	box-shadow: 0 3px 7px white;
 }
 
 .navbar-default .navbar-brand{
 	color: white;
-    font-size: 30px;
-    text-shadow: 2px 2px 0 black;
+	font-size: 30px;
+	text-shadow: 2px 2px 0 black;
 	margin:8px;
 }
 
@@ -35,6 +34,6 @@ h1,h2,h3, .navbar-default .navbar-brand {
 	margin:15px;
 	padding:15px;
 	border: 4px solid #ccc;
-    background-color: #8e8e8e;
-    color: white;
+    	background-color: #8e8e8e;
+	color: white;
 }
